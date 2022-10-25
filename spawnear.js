@@ -11,7 +11,7 @@ var roleHarvester = {
 	        if(energy >= 200){
     	        var numberOfParts = Math.floor(energy / 200);
                 var cuerpo = [];
-                //esto es una prueba
+                //esto es una prueba prueba
                 for (let i = 0; i < numberOfParts; i++) {
                     cuerpo.push(WORK);
                 }
